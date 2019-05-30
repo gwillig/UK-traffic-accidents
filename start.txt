@@ -1,0 +1,1 @@
+C:\anaconda\pythonw.exe C:\anaconda\cwp.py C:\anaconda "C:/anaconda/python.exe"
